@@ -1,0 +1,29 @@
+Questions to Ask:
+
+what is the population of the city Paris?
+what is the District of the city suzano?
+what is the continent of the country Mexico?
+what is the continent of the country Germany?
+
+
+AGGREGATE EXAMPLES:
+
+what is the largest population city?
+what is the biggest population country?
+what is the smallest population city?
+what is the lowest population country?
+what is the average population of a country?
+what is the avg population of a city?
+what is the avg size of the country?
+what is the sum of population of a country?
+add the population of city?
+count the country
+how many city exist?
+
+
+JOIN EXAMPLES:
+
+What is the capital and size of the country France or Germany?
+What is the capital and GNP and size  of the country France or Germany?
+What is the countrycode of the city Paris?
+What is the language and CountryCode of the city Kabul? 
